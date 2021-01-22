@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import employees from "../../utils/employees.json";
-import Table from "../../layout/table";
-import Form from "../../layout/form";
+import employees from "../utlis/employees.json";
+import Table from "../layout/table";
+import Form from "../layout/form";
 
 class Employee extends Component {
 
